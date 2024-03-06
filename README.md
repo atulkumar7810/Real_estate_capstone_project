@@ -11,5 +11,5 @@ Welcome to our Gurgaon Property Advisor, a machine learning-driven project aidin
 - <b>Analyzing Data</b>: Conduct thorough exploratory data analysis in our project using Pandas, Numpy, Matplotlib, Seaborn, and Sklearn. Uncover valuable insights, visualize trends, and harness machine learning capabilities for comprehensive understanding and informed decision-making in the real estate domain.
 
 # Run  Project
-- <b> STEP 1 </b>: Execute setup.py with python setup.py install to install all necessary modules from requirements.txt. Ensure smooth installation of project dependencies.
-- <b> STEP 2 </b>: Launch the project by running streamlit run "Home.py". Access the website on your local server. Seamlessly explore property recommendations and predictions in Gurgaon
+- <b> STEP 1 </b>: To ensure the smooth installation of project dependencies, run the following command: "pip install -r requirements.txt".
+- <b> STEP 2 </b>: Launch the project by running streamlit run "Home.py". Access the website on your local server. Seamlessly explore property recommendations and predictions in Gurgaon.
