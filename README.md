@@ -1,4 +1,4 @@
-# Gurgaon_Housing_Market_Analysis
+# Gurgaon Housing Market Analysis
 
 A data analysis project leveraging machine learning to explore Gurgaon’s real estate market. Built with Streamlit, the dashboard analyzes 3,000+ web-scraped listings to provide area-wise price trends, society insights, and price predictions. It streamlines property search by 30%, enabling data-driven decisions for buyers and investors in a dynamic market.
 
