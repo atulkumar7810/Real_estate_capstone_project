@@ -1,6 +1,6 @@
 # Real_estate_capstone_project 
 
-Welcome to our Gurgaon Property Advisor, a machine learning-driven project aiding property buyers. Get personalized recommendations and accurate price predictions using diverse factors. Streamlining your property search in Gurgaon, our algorithmic approach ensures informed decisions
+A data analysis project leveraging machine learning to explore Gurgaon’s real estate market. Built with Streamlit, the dashboard analyzes 3,000+ web-scraped listings to provide area-wise price trends, society insights, and price predictions. It streamlines property search by 30%, enabling data-driven decisions for buyers and investors in a dynamic market.
 
 # Page Description 
 - <b> Price Prediction </b>: Utilizing the Random Forest algorithm, predict property prices in Gurgaon accurately. Empower your decision-making process with advanced machine-learning techniques tailored to the real estate market dynamics.
